@@ -2,12 +2,11 @@
 
 function Home() {
   return (
-    <div className="bg-slate-100 m-2 rounded">
-
-    <h1>Lorem ipsum dolor sit amet consectetur adipisicing.</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse fuga quod accusamus voluptates earum quisquam.</p>
-
-    </div>
+    <div className="home-container">
+            <h1>You got the travel plans, we got the travel vans.</h1>
+            <p>Add adventure to your life by joining the #vanlife movement. Rent the perfect van to make your perfect road trip.</p>
+           
+        </div>
   )
 }
 
